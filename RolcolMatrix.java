@@ -1,4 +1,4 @@
-import java.lang.reflect.Array;
+
 import java.util.Arrays;
 
 public class RolcolMatrix {
@@ -12,6 +12,7 @@ public class RolcolMatrix {
         System.out.println(Arrays.toString(search(nums, 31)) );
         
     }
+    // the matrix given is sorted and we need to find element in least time complexity.
     static int [] search( int arr[][],int target ){
         int r =0;
         int c = arr.length-1;
