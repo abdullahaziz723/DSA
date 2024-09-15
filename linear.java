@@ -1,4 +1,4 @@
-package DSA;
+
 public class linear {
     public static void main(String[] args) {
         int [] arrr = {12,2,44,11,99,88};
