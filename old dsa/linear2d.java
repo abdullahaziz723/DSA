@@ -1,4 +1,3 @@
-
 public class linear2d {
 
     public static void main(String[] args) {
