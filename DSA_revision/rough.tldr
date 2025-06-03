@@ -36,15 +36,65 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 643.3333129882812,
-			"y": 95,
-			"lastActivityTimestamp": 1748804180148,
+			"x": 1328.7628358814898,
+			"y": 453.7565350598845,
+			"lastActivityTimestamp": 1748856408877,
 			"meta": {}
 		},
 		{
-			"x": 0,
-			"y": 0,
-			"z": 1,
+			"x": 1410.3720035320077,
+			"y": 184.1710804083383,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:f5NUzoxlqjhH6DXmkipqW",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"points": [
+							{
+								"x": 0,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": 2.75,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": 17.42,
+								"y": -0.92,
+								"z": 0.5
+							},
+							{
+								"x": 29.34,
+								"y": -1.83,
+								"z": 0.5
+							}
+						]
+					}
+				],
+				"color": "black",
+				"fill": "pattern",
+				"dash": "dotted",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aC7DZ",
+			"typeName": "shape"
+		},
+		{
+			"x": 318.0926869092423,
+			"y": 321.0724594717125,
+			"z": 0.4544013136745408,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -80,10 +130,30 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:color": "black"
+				"tldraw:color": "black",
+				"tldraw:fill": "pattern",
+				"tldraw:dash": "dashed"
 			},
 			"brush": null,
-			"scribbles": [],
+			"scribbles": [
+				{
+					"id": "ULAc_7uEm0IMhOUlxDJC9",
+					"size": 12,
+					"color": "muted-1",
+					"opacity": 0.8,
+					"delay": 0,
+					"points": [
+						{
+							"x": 1328.7628358814898,
+							"y": 453.7565350598845,
+							"z": 0.5
+						}
+					],
+					"shrink": 0.1,
+					"taper": true,
+					"state": "starting"
+				}
+			],
 			"cursor": {
 				"type": "cross",
 				"rotation": 0
@@ -96,7 +166,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 982.5,
-				"h": 542.5
+				"h": 635
 			},
 			"insets": [
 				false,
