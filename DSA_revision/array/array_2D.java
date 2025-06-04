@@ -12,14 +12,14 @@ public class array_2D {
          * 7 8 9
          */
         // int [][] arr = new int [][];
-        int[][] arr =  {
+        int[][] arr2 =  {
             {1, 2, 3},//0th index
             {4, 5, 6},//1st index
             {7, 8, 9}//2nd index
         };
         // input in 2d array
 
-        int [][] arr2 = new int[3][3];
+        // int [][] arr2 = new int[3][3];
         System.out.println(arr2.length);//number of rown will be2 given 
 
 
