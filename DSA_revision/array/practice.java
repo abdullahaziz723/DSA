@@ -25,6 +25,6 @@ public class practice {
         int temp=arr[a];
         arr[a]=arr[b];
         arr[b]=temp;
-        // System.out.println("values after swapping: ");
+        
     }
 }
