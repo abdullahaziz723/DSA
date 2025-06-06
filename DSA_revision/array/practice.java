@@ -1,6 +1,6 @@
 package array;
 import java.util.Arrays;
-import java.lang.reflect.Array;
+// This code demonstrates how to swap two elements in an array
 
 public class practice {
     public static void main(String[] args) {
