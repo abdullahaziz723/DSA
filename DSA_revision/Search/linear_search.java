@@ -4,7 +4,7 @@ public class linear_search {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         int target=81;
-        int ans = linear_search(arr, target);
+        // int ans = linear_search(arr, target);
         boolean ans2 = linear_search2(arr, target);
         System.out.println(ans2); // Output: true
 
