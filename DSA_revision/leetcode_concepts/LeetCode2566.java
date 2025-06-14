@@ -44,6 +44,7 @@ class Solution {
             if(c!='9'){
                 formax=c;
                 break;
+                // continue;
             }
         }
 
