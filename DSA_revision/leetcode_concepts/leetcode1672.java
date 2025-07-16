@@ -1,4 +1,4 @@
-package leetcode_concepts;
+// LeetCode Problem: 1672. Richest Customer Wealth
 
 public class leetcode1672 {
 

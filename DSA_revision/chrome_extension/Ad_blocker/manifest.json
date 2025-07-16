@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Ad Blocker",
+  "name": "Aziz Ad Blocker",
   "version": "1.1",
-  "description": "Blocks YouTube video and banner ads.",
+  "description": "Blocks YouTube video and banner ads.From specific to all YouTube videos ,a prototype made by myself.",
   "permissions": ["storage", "scripting", "tabs"],
   "host_permissions": ["*://www.youtube.com/*"],
   "content_scripts": [
